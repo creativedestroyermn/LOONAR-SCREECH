@@ -1,5 +1,5 @@
 //! LOONAR SCREECH Core System - MIT License
-//! Copyright © 2025 Clarke Macbeth - University of Minnesota
+//! Copyright © 2025 Clarke Macbeth
 
 #[cfg(not(target_arch = "wasm32"))]
 use cpal::traits::{HostTrait, StreamTrait};
