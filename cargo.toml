@@ -1,0 +1,14 @@
+[package]
+name = "loonar-screech"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+cpal = { version = "0.15", features = ["jack"] }
+rodio = "0.16"
+tokio = { version = "1.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+anyhow = "1.0"
+rand = "0.8"
+libc = "0.2"
