@@ -35,7 +35,7 @@ These instructions will guide you on how to build and run the Loonar Screech sys
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/creativedestroyermn/LOONAR-SCREECH/tree/main
+    git clone https://github.com/creativedestroyermn/LOONAR-SCREECH/tree/main.rs
     cd loonar-screech
     ```
 
@@ -156,9 +156,3 @@ While static analysis suggests the code is correctly structured, thorough testin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For inquiries about the project or to schedule a demo, please email **763-445-9687**.
-
-For personal inquiries, please email **clarke@votemacbeth.org**.
