@@ -1,5 +1,3 @@
-\`\`\`markdown
-
 # LOONAR SCREECH: Automatic Ear Network
 
 [![License: MIT](about:sanitized)](https://opensource.org/licenses/MIT)
