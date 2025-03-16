@@ -35,7 +35,7 @@ These instructions will guide you on how to build and run the Loonar Screech sys
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository_url] # Replace with the actual repository URL when available
+    git clone https://github.com/creativedestroyermn/LOONAR-SCREECH/tree/main.rs
     cd loonar-screech
     ```
 
