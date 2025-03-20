@@ -153,6 +153,17 @@ The sound detection logic is currently simplified, based on a decibel threshold.
 
 While static analysis suggests the code is correctly structured, thorough testing on all target platforms is crucial to ensure it works flawlessly in real-world scenarios. Key areas for testing include audio input permissions, the effectiveness of the sound detection, the reliability of alert triggering, and the implementation of the SMS alert functionality.
 
+## Contributing
+
+Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
+
+Please follow these guidelines:
+
+* Fork the repository.
+* Create a new branch for your changes.
+* Make your changes and ensure they are well-tested.
+* Submit a pull request with a clear description of your changes.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
